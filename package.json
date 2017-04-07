@@ -1,14 +1,24 @@
 {
   "name": "file-metadata",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "multer": "^1.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmaddp1995/file-metadata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nmaddp1995/file-metadata/issues"
+  },
+  "homepage": "https://github.com/nmaddp1995/file-metadata#readme",
+  "description": ""
 }
